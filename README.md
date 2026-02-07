@@ -16,11 +16,11 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/saqr-thabet/" target="_blank">
   <img src="https://www.svgrepo.com/show/448234/linkedin.svg"
-       alt="LinkedIn" width="40" height="30"
+       alt="LinkedIn" width="50" height="40"
        style="vertical-align: middle;"></a>
 <a href="https://www.researchgate.net/profile/Saqr-Thabet" target="_blank">
   <img src="https://www.svgrepo.com/show/349490/researchgate.svg"
-       alt="ResearchGate" width="50" height="40"
+       alt="ResearchGate" width="40" height="30"
        style="vertical-align: middle;"></a>
 </p>
 
