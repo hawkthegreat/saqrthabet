@@ -16,7 +16,7 @@
 <p align="left">
 <div style="display:flex; align-items:center; gap:10px;">
   <a href="https://www.linkedin.com/in/saqr-thabet/" target="_blank">
-    <img src="https://www.svgrepo.com/show/448234/linkedin.svg"
+    <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg"
          alt="LinkedIn" width="50" height="40"></a>
   <a href="https://www.researchgate.net/profile/Saqr-Thabet" target="_blank">
     <img src="https://www.svgrepo.com/show/349490/researchgate.svg"
